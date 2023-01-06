@@ -4,8 +4,8 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description:Please read The Design and Construction of Model Aircraft by D.B. Russell VI VII. pls also look at https://m-selig.ae.illinois.edu/props/volume-1/propDB-volume-1.html and https://m-selig.ae.illinois.edu/pubs/BrandtSelig-2011-AIAA-2011-1255-LRN-Propellers.pdf before using the propeller design function.Rubber models uses Flying Models by Ross p178-181 and Russell VIII.
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Suggests:plotrix
